@@ -46,3 +46,4 @@ Zeronet?
 # Sources
 * [Progressive app in Python](https://www.google.de/search?q=progressive+web+app+python&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&dcr=0&ei=sycwWq-XE5GDX8mDmtAP)
 * [minimal viable product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+* [CI/CD](https://en.wikipedia.org/wiki/CI/CD)
