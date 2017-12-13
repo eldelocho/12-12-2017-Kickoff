@@ -19,7 +19,12 @@ First meeting where we started to describe our idea, shared our expectations and
 
 
 # Functional Requirements
-
+* Tool should be proactive - so before the time to take the medicine, the app reminds
+* Tool should be reactive - after having missed the time to take the medicine -> app reminds
+* registration of information should be possible in three ways:
+1. directly in DB
+2. directly in FrontEnd
+3. the tool is being "trained" (no registration made by user)
 
 
 
