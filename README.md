@@ -28,8 +28,14 @@ First meeting where we started to describe our idea, shared our expectations and
 
 
 
-# Technical Requirements
-
+# Technical Requirements - TBD
+Kubernetes?
+IoT?
+Blockchain?
+Cloud Foundry?
+AWS?
+Zeronet?
+...you name it!
 
 
 
