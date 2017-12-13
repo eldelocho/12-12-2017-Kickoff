@@ -29,7 +29,7 @@ First meeting where we started to describe our idea, shared our expectations and
 
 
 # Tasks to achieve
-* Verify if PyGame is ideal for generating native android app
+* Verify if [PyGame](http://pygame.org/wiki/about) is ideal for generating native android app
 * Make a comparison of frontEnd technologies to choose the most proper one (React native? Angular? Django? OPENUI5?)
 
 # Sources
